@@ -2,7 +2,8 @@
 
 # ✅ TaskFlow API — Task Management REST API
 
-A minimal **RESTful Task Manager API** built with **Node.js**, **Express**, and **MongoDB (Mongoose)**.  
+**Learning project** to practice backend fundamentals: REST APIs, authentication (JWT), and MongoDB.
+A minimal **RESTful Task Manager API** built with **Node.js**, **Express**, and **MongoDB (Mongoose)**.
 Includes **JWT authentication**, **password hashing**, **user/task CRUD**, **filtering/pagination/sorting**, and **avatar upload** with image processing.
 
 <br/>
@@ -34,6 +35,13 @@ Includes **JWT authentication**, **password hashing**, **user/task CRUD**, **fil
 - [🧪 Examples (cURL)](#-examples-curl)
 - [🧠 Data Models](#-data-models)
 - [👤 Author](#-author)
+
+---
+
+## What I practiced
+- Designing REST endpoints and working with query parameters (filter/sort/pagination)
+- Authentication and password hashing (JWT, bcrypt)
+- Validation, error handling, and writing clear API documentation
 
 ---
 
